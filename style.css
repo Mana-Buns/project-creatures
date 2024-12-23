@@ -1,3 +1,20 @@
 p {
-    font-size:40px;
+    font-size:20px;
+}
+
+@font-face {
+    font-family:"Komika";
+    src:url("komikax_.ttf");
+}
+
+h1 {
+    font-family: 'Komika';
+}
+
+h3 {
+    font-family: 'Komika';
+}
+
+h2 {
+    font-family: 'Komika';
 }
